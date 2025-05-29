@@ -1,7 +1,7 @@
 import { FaArrowRightLong } from "react-icons/fa6";
 import Logo from '@/assets/img/logo-white.png'
 import SocialLogo01 from '@/assets/img/instagram.svg'
-import SocialLogo02 from '@/assets/img/Dribbble.svg'
+import SocialLogo02 from '@/assets/img/dribbble.svg'
 import SocialLogo03 from '@/assets/img/twitter.svg'
 import SocialLogo04 from '@/assets/img/youtube.svg'
 import { IoPaperPlaneOutline } from "react-icons/io5";
